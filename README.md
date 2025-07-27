@@ -1,5 +1,3 @@
-# file-handling-mini-project
-file handle using python
 # File Handling Mini Project
 
 This mini project processes student marks from a CSV file, determines the top student for each subject, and identifies the overall top student. The results are printed to the console and saved to an output file.
